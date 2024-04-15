@@ -1,10 +1,11 @@
 <html>
+<h1> <left> Welcome to UQ-BIO Summer School 2024! </left> </h1>
+   <summary></summary>
         <img align="left" src="./uqbio2024_files/uqbio_2024_logo.png"  width="300" height="300"/>
          <div> <p></p> </div>
          <div style="font-size: 20px; width: 1000px;">
-              <h1> <left> Welcome to UQ-BIO Summer School 2024! </left> </h1>
               <p><left==========================================left> </p>
-              <p> Below is the Github repository holding all the links to Jupyter Notebooks and files needed during the course. </p>
+              <p> Below is the GitHub repository holding all the links to Jupyter Notebooks and files needed during the course and instructions on installing Python.</p>
            <h3> Authors: </h3> <pre> Brian Munsky, Luis Aguilera, William Raymond, Joshua Cook, Michael May, Zachary Fox, and Eric Ron. </pre>
 <p><a href = "mailto: uqbio.summer.school@gmail.com"> uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2024/">2024 Undergraduate Summer School Schedule</a>  • <a href="https://q-bio.org/wp/">UQ-Bio</a> •  <a href="https://www.engr.colostate.edu/~munsky/">Munsky Group</a> </p>
 </div>
