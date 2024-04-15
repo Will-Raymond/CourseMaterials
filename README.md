@@ -8,8 +8,8 @@
            <h3> Authors: </h3> 
            <pre> 
 Brian Munsky, Luis Aguilera,
-William Raymond, Joshua Cook,
- Michael May, Zachary Fox, and Eric Ron.
+William Raymond, Joshua Cook, Michael May,
+Zachary Fox, and Eric Ron.
            </pre>
 <p><a href = "mailto: uqbio.summer.school@gmail.com"> uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2024/">2024 Undergraduate Summer School Schedule</a>  • <a href="https://q-bio.org/wp/">UQ-Bio</a> •  <a href="https://www.engr.colostate.edu/~munsky/">Munsky Group</a> </p>
 </div>
