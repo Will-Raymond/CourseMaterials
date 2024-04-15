@@ -1,6 +1,5 @@
 <html>
 <h1> <left> Welcome to UQ-BIO Summer School 2024! </left> </h1>
-   <summary></summary>
         <img align="left" src="./uqbio2024_files/uqbio_2024_logo.png"  width="300" height="300"/>
          <div> <p></p> </div>
          <div style="font-size: 20px; width: 1000px;">
