@@ -49,7 +49,7 @@ Once you have conda installed, we need to create a new environment for the class
       4. ```pip install biopython```
       5. ```conda activate uqbio2024_py310```
 
-These commands do the following, activate conda if its not already activated, create a new environment named uqbio2024_py310 with the packages listed in the linked .yaml file, then activate the new environment. If everything worked, Your terminal should have (uqbio2024_py310) at the front of its command line.
+These commands do the following: activate conda if its not already activated, create a new environment named uqbio2024_py310 with the packages listed in the linked .yaml file, then activate the new environment. If everything worked, Your terminal should have (uqbio2024_py310) at the front of its command line.
 
 ### Using your new environment in VS Code
 
