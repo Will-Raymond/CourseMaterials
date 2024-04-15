@@ -30,24 +30,15 @@ Download and install either anaconda or miniconda from:  https://www.anaconda.co
 Once you have conda installed, we need to create a new environment for the class. 
 
 * Restart your computer so conda is available.
+* Open up a new Terminal (Linux/Mac) or Command Prompt (Windows) and type the following commands
+1. ```conda activate```
+2. ```conda create --name "uqbio2024_py310" python=3.10``` 
+3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
+ * Note this command will take a while and ask for your confirmation!
+4. ```pip install biopython```
+5. ```conda activate uqbio2024_py310```
 
-* Linux / Mac:
-   * Open up a new terminal and type the following commands
-      1. ```conda activate```
-      2. ```conda create --name "uqbio2024_py310" python=3.10``` 
-      3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
-         * Note this command will take a while and ask for your confirmation!
-      4. ```pip install biopython```
-      5. ```conda activate uqbio2024_py310```
 
-* Windows:
-   * Open up a new terminal and type the following commands
-      1. ```conda activate```
-      2. ```conda create --name "uqbio2024_py310" python=3.10``` 
-      3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
-         * Note this command will take a while and ask for your confirmation!
-      4. ```pip install biopython```
-      5. ```conda activate uqbio2024_py310```
 
 These commands do the following: activate conda if its not already activated, create a new environment named uqbio2024_py310 with the packages listed in the linked .yaml file, then activate the new environment. If everything worked, Your terminal should have (uqbio2024_py310) at the front of its command line.
 
