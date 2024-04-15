@@ -34,7 +34,7 @@ Once you have conda installed, we need to create a new environment for the class
 * Linux / Mac:
    * Open up a new terminal and type the following commands
       1. ```conda activate```
-      2. ```conda create --name "uqbio2024_py310" python=3.10 -f uqbio2024.yaml``` 
+      2. ```conda create --name "uqbio2024_py310" python=3.10``` 
       3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
          * Note this command will take a while and ask for your confirmation!
       4. ```pip install biopython```
@@ -43,7 +43,7 @@ Once you have conda installed, we need to create a new environment for the class
 * Windows:
    * Open up a new terminal and type the following commands
       1. ```conda activate```
-      2. ```conda create --name "uqbio2024_py310" python=3.10 -f uqbio2024.yaml``` 
+      2. ```conda create --name "uqbio2024_py310" python=3.10``` 
       3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
          * Note this command will take a while and ask for your confirmation!
       4. ```pip install biopython```
