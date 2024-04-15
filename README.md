@@ -33,23 +33,21 @@ Once you have conda installed, we need to create a new environment for the class
 
 * Linux / Mac:
    * Open up a new terminal and type the following commands
-      1. conda activate
-      2. conda create --name "uqbio2024_py310" python=3.10 -f uqbio2024.yaml 
-      3. conda install numpy pandas scipy jupyter ipython matplotlib pillow 
-      scikit-image tifffile beautifulsoup4
+      1. ```conda activate```
+      2. ```conda create --name "uqbio2024_py310" python=3.10 -f uqbio2024.yaml``` 
+      3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
          * Note this command will take a while and ask for your confirmation!
-      4. pip install biopython
-      5. conda activate uqbio2024_py310
+      4. ```pip install biopython```
+      5. ```conda activate uqbio2024_py310```
 
 * Windows:
-   * Open up a new command prompt
-      1. conda activate
-      2. conda create --name "uqbio2024_py310" python=3.10 -f uqbio2024.yaml 
-      3. conda install numpy pandas scipy jupyter ipython matplotlib pillow 
-      scikit-image tifffile beautifulsoup4
+   * Open up a new terminal and type the following commands
+      1. ```conda activate```
+      2. ```conda create --name "uqbio2024_py310" python=3.10 -f uqbio2024.yaml``` 
+      3. ```conda install numpy pandas scipy jupyter ipython matplotlib pillow scikit-image tifffile beautifulsoup4```
          * Note this command will take a while and ask for your confirmation!
-      4. pip install biopython
-      5. conda activate uqbio2024_py310
+      4. ```pip install biopython```
+      5. ```conda activate uqbio2024_py310```
 
 These commands do the following, activate conda if its not already activated, create a new environment named uqbio2024_py310 with the packages listed in the linked .yaml file, then activate the new environment. If everything worked, Your terminal should have (uqbio2024_py310) at the front of its command line.
 
@@ -63,8 +61,8 @@ Now that we have a brand new environment, we can use an IDE (integrated developi
 3. type Python: Select interpreter and select the uqbio2024_py310 kernel
 5. At the top, click Terminal and then New terminal or use "Ctrl + Shift + `"
 6. Check that the terminal that popped up is using our correct environment by typing the following:
-   * ipython
-   * import numpy; import scipy; import skimage; import Bio; import matplotlib; import pandas; import tifffile;
+   * ```ipython```
+   * ```import numpy; import scipy; import skimage; import Bio; import matplotlib; import pandas; import tifffile;```
 
 If all these packages import with no errors then your environment is intact and ready to use for the course! Feel free to check out the preliminary python notebooks under CourseMaterials/Module1-PreliminaryPython/. To run a notebook file in VS Code, simply open the .ipynb file in VS code by navigating to it in your workspace or File > Open File.
 
