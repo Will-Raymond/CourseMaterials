@@ -5,7 +5,7 @@
          <div style="font-size: 20px; width: 1000px;">
               <p><left==========================================left> </p>
               <p> Below is the GitHub repository holding all the links to Jupyter Notebooks and files needed during the course and instructions on installing Python.</p>
-           <h2> Authors: </h2> 
+           <h3> Authors: </h3> 
            <pre> 
 Brian Munsky, Luis Aguilera,
 William Raymond, Joshua Cook,
